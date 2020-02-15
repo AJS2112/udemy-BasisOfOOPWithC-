@@ -1,0 +1,11 @@
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.exe
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.deps.json
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.runtimeconfig.json
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.runtimeconfig.dev.json
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.dll
+D:\repos\WarriorsWars\WarriorsWars\bin\Debug\netcoreapp3.0\WarriorsWars.pdb
+D:\repos\WarriorsWars\WarriorsWars\obj\Debug\netcoreapp3.0\WarriorsWars.csprojAssemblyReference.cache
+D:\repos\WarriorsWars\WarriorsWars\obj\Debug\netcoreapp3.0\WarriorsWars.AssemblyInfoInputs.cache
+D:\repos\WarriorsWars\WarriorsWars\obj\Debug\netcoreapp3.0\WarriorsWars.AssemblyInfo.cs
+D:\repos\WarriorsWars\WarriorsWars\obj\Debug\netcoreapp3.0\WarriorsWars.dll
+D:\repos\WarriorsWars\WarriorsWars\obj\Debug\netcoreapp3.0\WarriorsWars.pdb
